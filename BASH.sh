@@ -1,5 +1,5 @@
 #! /bin/bash
-// Author: Sid220
+# Author: @Sid220
 joe=$(( $RANDOM % 2 + 0 ))
 if [ $joe == 1 ]
 then
