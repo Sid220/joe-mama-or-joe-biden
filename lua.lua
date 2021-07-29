@@ -1,3 +1,4 @@
+-- Author: @Sid220
 math.randomseed(os.time())
 if (math.random(2) == 1) then
     print("Joe Mama")
