@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<body>
+<center>
+<div id="container">
+<h1 id="awnser">
+</h1>
+</div>
+</center>
+<style>
+#container{
+width: fit-content;
+color: white;
+padding: 10px;
+border-weight: 20px;
+border-radius: 50%;
+</style>
+<script>
+window.onload = function() {
+setInterval(function() {
+var joe = Math.floor(Math.random() * 2);
+
+if (joe == 0) {
+document.getElementById("awnser").innerHTML = "Joe Mama";
+document.getElementById("container").style.background = "red";
+} else {
+  document.getElementById("awnser").innerHTML = "Joe Biden";
+  document.getElementById("container").style.background = "green";
+}
+}, 1000)
+}
+</script>
+</body>
+</html>
