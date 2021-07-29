@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<center>
+<div id="awnser">
+</div>
+</center>
+<script>
+window.onload = function() {
+var joes = ['<svg height="30" width="200"> <text x="0" y="15" fill="red">Joe Mama</text></svg>', '<svg height="30" width="200"> <text x="0" y="15" fill="green">Joe Biden</text></svg>'];
+var joe = Math.floor(Math.random() * 2);
+document.getElementById("awnser").innerHTML = joes[joe]
+}
+</script>
+</body>
+</html>
