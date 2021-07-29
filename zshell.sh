@@ -1,4 +1,5 @@
 #!/bin/zsh
+# Author: @piflyer
 joe=$(( $RANDOM % 2 + 0 ))
 if [ $joe == 1 ]
 then
