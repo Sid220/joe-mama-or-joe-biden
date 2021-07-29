@@ -3,4 +3,4 @@
 # Soooo y'all are idiots and I found a mistake/want to improve one
 You can make a pull request
 # WDYM, YOU FORGOT MY FAVORITE OBSCURE PROGRAMMING LANGUAGE!
-Yanked a pull request of a new file titled "*programming language*.*said languages extension* and make sure to include a comment with "Author:*your name*"
+Make a pull request of a new file titled "*programming language*.*said languages extension*" and make sure to include a comment with "Author:*your name*"
