@@ -1,3 +1,4 @@
+# Author: @Sid220
 $random=rand(2)
 if $random == 0
   puts "Joe Mama"
