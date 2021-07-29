@@ -1,3 +1,4 @@
+Rem Author: @Sid220
 Function rnd_range (first As Double, last As Double) As Double
     Function = Rnd * (last - first) + first
 End Function
