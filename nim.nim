@@ -1,3 +1,4 @@
+# Author: @Sid220
 import random
 randomize()
 let joe = rand(1)
